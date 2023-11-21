@@ -1,0 +1,4 @@
+import ArrowRight from './img/arrow_right.png';
+import ArrowLeft from './img/arrow_left.png';
+
+https://www.freakyjolly.com/react-responsive-carousel-image-gallery-with-thumbnails-using-components/

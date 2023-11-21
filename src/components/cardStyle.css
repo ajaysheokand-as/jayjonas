@@ -1,0 +1,43 @@
+/* Existing styles remain the same */
+
+.blog-card {
+    background-color: #977BDF;
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 10px;
+  }
+  
+  .blog-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .button {
+    background-color: #BA55D3;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-end;
+  }
+  
+  .button:hover {
+    background-color: #8A2BE2;
+  }
+  
+  .card-content {
+    flex: 1;
+  }
+  
+  .card-content img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
